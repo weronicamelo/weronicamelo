@@ -16,12 +16,21 @@ criando ou aprendendo.
 ## 🛠 Tecnologias que estou utilizando
 
 Eu trabalho com uma variedade de tecnologias. Aqui estão algumas delas:
- - **Linguagens**: Java, C, C#
- - **Desenvolvimento web**: HTML, CSS, JavaScript
+ - **Linguagens**: Java, C e C#
+ - **Desenvolvimento web**: HTML, CSS e JavaScript
  - **Frameworks**: Bootstrap
- - **Ferramentas**: Visual Studio, Git
+ - **Ferramentas**: Visual Studio, Git, Power BI e Power Apps
  - **Banco de Dados**: MySQL
+ - **Metodologias ágeis**: Scrum e Kanban
 <br>
+
+## Atualmente estou aprendendo
+
+Me especializei em ferramentas de análise de dados e visualização, ampliando minha compreensão sobre como transformar dados para a tomada de decisões corporativas.
+
+Interface Web com Bootstrap – SENAI
+Desenvolvi habilidades na criação de interfaces responsivas e modernas utilizando o Bootstrap, garantindo uma experiência de usuário aprimorada em diversos dispositivos.
+
 
 ## 💬 Vamos conectar!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/werônicalvesmelo)
