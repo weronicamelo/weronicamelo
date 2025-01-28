@@ -11,7 +11,7 @@ Bem-vindo(a) ao meu perfil do GitHub! 👋
 Aqui você vai encontrar alguns dos meus projetos, contribuições e tudo o que ando 
 criando ou aprendendo.
 
-##🛠 Tecnologias que estou utilizando
+## 🛠 Tecnologias que estou utilizando
 
 Eu trabalho com uma variedade de tecnologias. Aqui estão algumas delas:
  - **Linguagens**: Java, C, C#
@@ -20,5 +20,5 @@ Eu trabalho com uma variedade de tecnologias. Aqui estão algumas delas:
  - **Ferramentas**: Visual Studio, Git
  - **Banco de Dados**: MySQL
 
-##💬 Vamos conectar!
+## 💬 Vamos conectar!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/werônicalvesmelo)
