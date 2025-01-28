@@ -26,12 +26,13 @@ Eu trabalho com uma variedade de tecnologias. Aqui estão algumas delas:
 
 ## ✍ Atualmente estou aprendendo
 
-Power BI - SENAI
+Power BI - SENAI <br>
 Me especializei em ferramentas de análise de dados e visualização, ampliando minha compreensão sobre como transformar dados para a tomada de decisões corporativas. 
 
-Interface Web com Bootstrap – SENAI
+Interface Web com Bootstrap – SENAI <br>
 Desenvolvi habilidades na criação de interfaces responsivas e modernas utilizando o Bootstrap, garantindo uma experiência de usuário aprimorada em diversos dispositivos.
-
+<br>
+<br>
 
 ## 💬 Vamos conectar!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/werônicalvesmelo)
