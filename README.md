@@ -24,9 +24,10 @@ Eu trabalho com uma variedade de tecnologias. Aqui estão algumas delas:
  - **Metodologias ágeis**: Scrum e Kanban
 <br>
 
-## Atualmente estou aprendendo
+## ✍ Atualmente estou aprendendo
 
-Me especializei em ferramentas de análise de dados e visualização, ampliando minha compreensão sobre como transformar dados para a tomada de decisões corporativas.
+Power BI - SENAI
+Me especializei em ferramentas de análise de dados e visualização, ampliando minha compreensão sobre como transformar dados para a tomada de decisões corporativas. 
 
 Interface Web com Bootstrap – SENAI
 Desenvolvi habilidades na criação de interfaces responsivas e modernas utilizando o Bootstrap, garantindo uma experiência de usuário aprimorada em diversos dispositivos.
