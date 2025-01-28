@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá, eu sou a Werônica! 
 
-<!--
-**weronicamelo/weronicamelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil do GitHub! 👋
 
-Here are some ideas to get you started:
+- 🚋 Sou aprendiz na Companhia Paulista de Trens Metropolitanos (CPTM).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 Estudante em desenvolvimento de sistemas no Senai.
+
+- 👩‍🎓 Técnica em informática pelo IFSP.
+
+Aqui você vai encontrar alguns dos meus projetos, contribuições e tudo o que ando 
+criando ou aprendendo.
+
+##🛠 Tecnologias que estou utilizando
+
+Eu trabalho com uma variedade de tecnologias. Aqui estão algumas delas:
+ - **Linguagens**: Java, C, C#
+ - **Desenvolvimento web**: HTML, CSS, JavaScript
+ - **Frameworks**: Bootstrap
+ - **Ferramentas**: Visual Studio, Git
+ - **Banco de Dados**: MySQL
+
+##💬 Vamos conectar!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/werônicalvesmelo)
