@@ -9,8 +9,8 @@ Bem-vindo(a) ao meu perfil do GitHub! 👋
 - 👩‍🎓 Técnica em informática pelo IFSP.
 
 Aqui você vai encontrar alguns dos meus projetos, contribuições e tudo o que ando 
-criando ou aprendendo. <br>
-
+criando ou aprendendo.
+ <br>
 ## 🛠 Tecnologias que estou utilizando
 
 Eu trabalho com uma variedade de tecnologias. Aqui estão algumas delas:
@@ -20,6 +20,5 @@ Eu trabalho com uma variedade de tecnologias. Aqui estão algumas delas:
  - **Ferramentas**: Visual Studio, Git
  - **Banco de Dados**: MySQL
 <br>
-
 ## 💬 Vamos conectar!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/werônicalvesmelo)
