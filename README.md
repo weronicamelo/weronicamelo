@@ -11,6 +11,7 @@ Bem-vindo(a) ao meu perfil do GitHub! 👋
 Aqui você vai encontrar alguns dos meus projetos, contribuições e tudo o que ando 
 criando ou aprendendo.
 <br>
+<br>
 
 ## 🛠 Tecnologias que estou utilizando
 
