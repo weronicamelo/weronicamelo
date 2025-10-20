@@ -19,7 +19,7 @@ Eu trabalho com uma variedade de tecnologias. Aqui estão algumas delas:
 | ----------------------------------------------------------------------- |
 | - **Linguagens**: Java, C, C#, C++ e Python |
 | - **Desenvolvimento web**: HTML, CSS e JavaScript |
-| - **Frameworks**: Bootstrap |
+| - **Frameworks**: Bootstrap e Flask |
 | - **Ferramentas**: Visual Studio, Git, Power BI e Power Apps |
 | - **Banco de Dados**: MySQL e PostgreSQL |
 | - **Metodologias ágeis**: Scrum e Kanban |
